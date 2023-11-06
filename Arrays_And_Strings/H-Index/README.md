@@ -6,4 +6,4 @@
      * Runtime - 2ms (Beats 66.73%of users with Java)
      * Memory - 40.1 MB (Beats 83.69%of users with Java)
 
-![Alt text](<leedcode_result_hIndex.png>)
+![Alt text](<images/leedcode_result_hIndex.png>)
